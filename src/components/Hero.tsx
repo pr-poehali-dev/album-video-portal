@@ -18,9 +18,9 @@ export default function Hero() {
         </div>
 
         <h1 className="font-vintage text-5xl md:text-7xl font-bold text-vintage-sepia mb-6">
-          Музыкальная
+          Шамиль Ханов
           <br />
-          <span className="text-vintage-brown">Коллекция</span>
+          <span className="text-vintage-brown">"Мои песни от души"</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-vintage-sepia/80 mb-8 max-w-2xl mx-auto font-sans">
